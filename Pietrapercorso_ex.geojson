@@ -15,7 +15,8 @@
         "Denominazi": "Caseificio Angelo Cacciatore",
         "Indirizzo": "Contrada Buonanotte",
         "Numero civ": null,
-        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA.webp"
+        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA.webp",
+        "link": "https://atlantestorieluoghi.it/pietra/#luogo1"
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +30,8 @@
         "Denominazi": "Caseificio Ferranti D&C",
         "Indirizzo": "Via Libero Attardi",
         "Numero civ": 6.0,
-        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA2.jpeg"
+        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA2.jpeg",
+        "link": "https://atlantestorieluoghi.it/pietra/#luogo2"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +45,8 @@
         "Denominazi": "Caseificio Presti",
         "Indirizzo": "Contrada Molinazzo",
         "Numero civ": null,
-        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA3.jpeg"
+        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA3.jpeg",
+        "link": "https://atlantestorieluoghi.it/pietra/#luogo3"
       },
       "geometry": {
         "type": "Point",
@@ -57,7 +60,8 @@
         "Denominazi": "Caseificio Giovanni Cacciatore",
         "Indirizzo": "Via Rossini",
         "Numero civ": 11.0,
-        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA4.jpeg"
+        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA4.jpeg",
+        "link": "https://atlantestorieluoghi.it/pietra/#luogo4"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +75,8 @@
         "Denominazi": "Azienda agricola Di Leto",
         "Indirizzo": "Contrada Conturberna",
         "Numero civ": null,
-        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA2.jpeg"
+        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA2.jpeg",
+        "link": "https://atlantestorieluoghi.it/pietra/#luogo5"
       },
       "geometry": {
         "type": "Point",
@@ -85,7 +90,8 @@
         "Denominazi": "Azienda agricola Leto Barone",
         "Indirizzo": "Via Sandro Pertini",
         "Numero civ": 37.0,
-        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA2.jpeg"
+        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA2.jpeg",
+        "link": "https://atlantestorieluoghi.it/pietra/#luogo6"
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +105,8 @@
         "Denominazi": "Az. Bio-sperim Feudo Pietra",
         "Indirizzo": "Contrada Pietranera",
         "Numero civ": null,
-        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA3.jpeg"
+        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA3.jpeg",
+        "link": "https://atlantestorieluoghi.it/pietra/#luogo7"
       },
       "geometry": {
         "type": "Point",
@@ -113,7 +120,8 @@
         "Denominazi": "Azienda agricola Collura Giorg",
         "Indirizzo": "Via Aldo Moro",
         "Numero civ": 37.0,
-        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA4.jpeg"
+        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA4.jpeg",
+        "link": "https://atlantestorieluoghi.it/pietra/#luogo8"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +135,8 @@
         "Denominazi": "Rivendita Terramadre_Militello",
         "Indirizzo": "Via Roma",
         "Numero civ": 80.0,
-        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA3.jpeg"
+        "ImageURL": "https://www.atlantestorieluoghi.it/wp-content/uploads/2023/09/esempioPIETRA3.jpeg",
+        "link": "https://atlantestorieluoghi.it/pietra/#luogo9"
       },
       "geometry": {
         "type": "Point",
