@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 169 169">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #00a4bc;
+        stroke-dasharray: 0 0 3.94 7.88;
+        stroke-linejoin: round;
+        stroke-width: 41px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="84.5" cy="84.5" r="64"/>
+</svg>
